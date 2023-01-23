@@ -1,8 +1,8 @@
 # WhichApp_Server
 ## Overview
-This is a full stack application where users can search a show or movie and find out which app(s) they can stream it on and whether there is an addition cost apart from a subscription.
+This is a full stack application where users can search a show or movie and find out which app(s) they can stream it on and whether there is an additional cost apart from a subscription.
 
-The frontend repo: https://github.com/OnePartHarmony/WhichApp_Client
+Front-End repo: https://github.com/OnePartHarmony/WhichApp_Client
 
 ## Deployed Link
 TBD
@@ -24,7 +24,7 @@ TBD
   - Django
   - Sql
 
-## Other Tools Used
+## Other Technologies Used
 - Trello
 - Canva 
 
@@ -34,20 +34,20 @@ As a user I want the ability to...
   - search a show or movie
   - see where that show or movie is streamed 
   - keep a list of my favorite shows for easy reference
-  - opt into notifications of when a given show/movie will stop streaming on its current app.
+  - opt into notifications of when a given show/movie will stop streaming on its current app
 
 ## Stretch	Goals
-
+- Allow users to also search for sporting events such as boxing matches
 
 ## Version 2
-
+- Live Streaming capabilites for sporting events
   
-## Application Wire Frames
+## Application ERDs
 <!-- ![wireframe1](/images/WF1-SantasHelper.png "WireFrame1") -->
 
 
 ## Schedule
-- Monday 1/23: Brainstorm the idea with the team, decide on roles, set up github repos, decide on tech stack, set up Readme's for front and back ends, start ERDs, start WireFrames, set up trello board
+- Monday 1/23: Brainstorm the idea with the team, decide on roles, set up github repos, decide on tech stack, set up Readme's for front and back ends, start ERDs, start wire frames, set up trello board
 - Tuesday 1/24: Polish readme's, start getting back end set up
 - Wednesday 1/25: 
 - Thursday 1/26: 
@@ -62,15 +62,14 @@ As a user I want the ability to...
 - An app that looks and functions on a basic level; with a navigation bar, a search box, and a place for users to store their favorite shows//movies.
 
 ## Available Scripts
-
 In the project directory, you can run:
 
-### `npm start` 
+## `npm start` 
 
 Runs the app in the development mode.\
 Open [http://localhost:3001](http://localhost:3001) to view it in your browser.
 
-### `npm test`
+## `npm test`
 
-### `npm run build`
+## `npm run build`
 
